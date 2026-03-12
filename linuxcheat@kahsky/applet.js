@@ -152,6 +152,9 @@ const COMMANDS = [
             { en: "Stash changes",                  fr: "Stash",                       cmd: "git stash" },
             { en: "Apply stash",                    fr: "Stash pop",                   cmd: "git stash pop" },
             { en: "Show diff",                      fr: "Diff",                        cmd: "git diff" },
+            { en: "List global config",             fr: "Config globale",              cmd: "git config --global --list" },
+            { en: "Set global username",            fr: "Définir nom utilisateur",     cmd: "git config --global user.name \"Your Name\"" },
+            { en: "Set global email",               fr: "Définir email",               cmd: "git config --global user.email \"your@email.com\"" },
         ]
     },
     {
