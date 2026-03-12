@@ -1,0 +1,43 @@
+/* Linux Cheat Sheet Applet */
+
+.cheat-title {
+    font-size: 14px;
+    font-weight: bold;
+    color: #5294e2;
+}
+
+.cheat-footer {
+    font-size: 11px;
+    color: #888;
+    font-style: italic;
+}
+
+.cheat-item-box {
+    padding: 2px 4px;
+    spacing: 12px;
+}
+
+.cheat-label {
+    font-size: 13px;
+    min-width: 180px;
+    color: #222222;
+}
+
+.cheat-cmd {
+    font-family: monospace;
+    font-size: 12px;
+    color: #ffffff;
+    background-color: #2d6abf;
+    border-radius: 4px;
+    padding: 1px 8px;
+}
+
+/* Survol d'un item */
+.popup-menu-item:hover .cheat-label {
+    color: #000000;
+}
+
+.popup-menu-item:hover .cheat-cmd {
+    color: #ffffff;
+    background-color: #1a4a99;
+}

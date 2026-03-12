@@ -1,0 +1,12 @@
+{
+    "language": {
+        "type": "combobox",
+        "default": "en",
+        "options": {
+            "English": "en",
+            "Français": "fr"
+        },
+        "description": "Language / Langue",
+        "tooltip": "Choose the display language for commands and descriptions."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "uuid": "linuxcheat@kahsky",
+    "name": "Linux Cheat Sheet",
+    "description": "Affiche des commandes Linux classées par thème. Cliquez sur une commande pour la copier.",
+    "icon": "utilities-terminal",
+    "cinnamon-version": [
+        "4.6",
+        "4.8",
+        "5.0",
+        "5.2",
+        "5.4",
+        "5.6",
+        "5.8",
+        "6.0"
+    ],
+    "author": "kahsky",
+    "last-edited": 1771455566
+}
